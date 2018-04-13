@@ -1,5 +1,6 @@
 {
   "projects": {
-    "test": "dougneves-fb-web-codelab"
+    "test": "dougneves-fb-web-codelab",
+    "staging": "dougneves-fb-web-codelab"
   }
 }
